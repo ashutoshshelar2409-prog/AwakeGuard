@@ -1,0 +1,10 @@
+Your project should have:
+
+opencv-python
+mediapipe
+numpy
+pyserial
+
+Then installation becomes:
+
+pip install -r requirements.txt
