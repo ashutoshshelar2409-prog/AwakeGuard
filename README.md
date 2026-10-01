@@ -73,7 +73,7 @@ pip install -r requirements.txt
 2. Find the board's serial port (for example `COM3` on Windows) and set it in `config/config.py`.
 3. Run the application:
 ```bash
-python src/main.py
+python -m src.main
 ```
  
 Press `q` in the video window to exit. The camera and serial port are released on exit.

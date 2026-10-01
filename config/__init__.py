@@ -1,0 +1,3 @@
+"""
+AwakeGuard configuration package.
+"""
